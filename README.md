@@ -51,23 +51,18 @@ This project helped us implement and better understand the core concepts of Obje
 * Enums
 * Nested Classes
 
+
 ## 📸 Screenshots
 
-### Start Screen
+<p align="center">
+  <img src="images/StartGame.png" alt="Start Screen" width="45%">
+  <img src="images/Gameplay.png" alt="Gameplay" width="45%">
+</p>
 
-![Start Screen](images/StartGame.png)
-
-### Gameplay
-
-![Gameplay](images/Gameplay.png)
-
-### Pause Screen
-
-![Pause](images/PausedGame.png)
-
-### Collision
-
-![Crash](images/Crash.png)
+<p align="center">
+  <img src="images/PausedGame.png" alt="Paused Game" width="45%">
+  <img src="images/Crash.png" alt="Crash Screen" width="45%">
+</p>
 
 ## Controls
 
