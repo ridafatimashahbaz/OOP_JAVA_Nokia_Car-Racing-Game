@@ -4,7 +4,13 @@ This project is a Java implementation of the classic Nokia Racing Game, develope
 
 The game was built using **Java Swing** and focuses on creating a smooth gameplay experience while following proper object-oriented design.
 
+## 📌 Project Information
 
+**Course:** Object-Oriented Programming
+
+**Semester:** 2nd Semester
+
+**Institution:** COMSATS University Islamabad, Lahore Campus
 
 ## Features
 
@@ -23,14 +29,15 @@ The game was built using **Java Swing** and focuses on creating a smooth gamepla
 
 
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-* Java
-* Java Swing
-* Java AWT
+- Java
+- Java Swing (GUI)
+- Java AWT
+- Object-Oriented Programming (OOP)
 
 
-
+  
 ## OOP Concepts Applied
 
 This project helped us implement and better understand the core concepts of Object-Oriented Programming, including:
