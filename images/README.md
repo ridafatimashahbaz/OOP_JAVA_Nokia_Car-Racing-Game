@@ -2,16 +2,16 @@
 
 ### Start Screen
 
-![Start Screen](images/StartGame.png)
+![Start Screen](/StartGame.png)
 
 ### Gameplay
 
-![Gameplay](images/Gameplay.png)
+![Gameplay](/Gameplay.png)
 
 ### Pause Screen
 
-![Pause](images/PausedGame.png)
+![Pause](/PausedGame.png)
 
 ### Collision
 
-![Crash](images/Crash.png)
+![Crash](/Crash.png)
